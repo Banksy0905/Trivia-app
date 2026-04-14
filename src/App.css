@@ -1,0 +1,30 @@
+/* Container for the Quiz */
+.quiz-container {
+  padding: 20px;
+  transition: background-color 0.3s ease;
+  border-radius: 8px;
+}
+
+/* Green Flash for Correct Answers */
+.animate-correct {
+  animation: correct-flash 1.0s ease-in-out;
+}
+
+@keyframes correct-flash {
+  0% { background-color: transparent; }
+  50% { background-color: rgba(76, 175, 80, 0.3); }
+  100% { background-color: transparent; }
+}
+
+/* Red Shake for Incorrect Answers */
+.animate-incorrect {
+  animation: incorrect-shake 1.0s ease-in-out;
+}
+
+@keyframes incorrect-shake {
+  0% { transform: translateX(0); background-color: rgba(244, 67, 54, 0.3); }
+  25% { transform: translateX(-10px); }
+  50% { transform: translateX(10px); }
+  75% { transform: translateX(-10px); }
+  100% { transform: translateX(0); background-color: transparent; }
+}
