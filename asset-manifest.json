@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/trivia-app/static/css/main.43850a58.css",
-    "main.js": "/trivia-app/static/js/main.cb98d99a.js",
-    "static/js/453.5247f634.chunk.js": "/trivia-app/static/js/453.5247f634.chunk.js",
-    "static/media/incorrect_buzz.mp3": "/trivia-app/static/media/incorrect_buzz.87eeabac4d0a0939e912.mp3",
-    "static/media/correct_ding.mp3": "/trivia-app/static/media/correct_ding.23d0e138bca01dee202f.mp3",
-    "index.html": "/trivia-app/index.html",
-    "main.43850a58.css.map": "/trivia-app/static/css/main.43850a58.css.map",
-    "main.cb98d99a.js.map": "/trivia-app/static/js/main.cb98d99a.js.map",
-    "453.5247f634.chunk.js.map": "/trivia-app/static/js/453.5247f634.chunk.js.map"
+    "main.css": "/Trivia-app/static/css/main.43850a58.css",
+    "main.js": "/Trivia-app/static/js/main.53722ca7.js",
+    "static/js/453.5247f634.chunk.js": "/Trivia-app/static/js/453.5247f634.chunk.js",
+    "static/media/incorrect_buzz.mp3": "/Trivia-app/static/media/incorrect_buzz.87eeabac4d0a0939e912.mp3",
+    "static/media/correct_ding.mp3": "/Trivia-app/static/media/correct_ding.23d0e138bca01dee202f.mp3",
+    "index.html": "/Trivia-app/index.html",
+    "main.43850a58.css.map": "/Trivia-app/static/css/main.43850a58.css.map",
+    "main.53722ca7.js.map": "/Trivia-app/static/js/main.53722ca7.js.map",
+    "453.5247f634.chunk.js.map": "/Trivia-app/static/js/453.5247f634.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.43850a58.css",
-    "static/js/main.cb98d99a.js"
+    "static/js/main.53722ca7.js"
   ]
 }
